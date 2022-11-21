@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contain object related question and answering generation code based on hand-designed QA-templated
+This repository contain object related question and answering in DramaQA code based on hand-designed QA-templated
 
 
 
